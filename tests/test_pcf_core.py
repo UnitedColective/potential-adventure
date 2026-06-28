@@ -70,6 +70,35 @@ class TestPCF:
                         'white_noise_floor', 'above_floor', 'second_differences']
         for key in required_keys:
             assert key in result
+    
+    def test_pcf_minimum_length(self):
+        """PCF should reject series with length < 3"""
+        X = np.array([1, 2])
+        with pytest.raises(ValueError):
+            compute_pcf(X)
+
+
+class TestSignificanceTesting:
+    """Test significance testing against white noise"""
+    
+    def test_white_noise_not_significant(self):
+        """White noise should not be significantly above floor"""
+        np.random.seed(42)
+        wn = np.random.randn(5000)
+        result = compute_pcf(wn)
+        sig_test = test_against_white_noise(result, n_trials=100)
+        assert sig_test['p_value'] > 0.05 or abs(sig_test['z_score']) < 2
+    
+    def test_ar1_significant(self):
+        """AR(1) should be significantly above floor"""
+        np.random.seed(42)
+        ar1 = np.zeros(5000)
+        ar1[0] = np.random.randn()
+        for t in range(1, len(ar1)):
+            ar1[t] = 0.7 * ar1[t-1] + np.random.randn()
+        result = compute_pcf(ar1)
+        sig_test = test_against_white_noise(result, n_trials=100)
+        assert sig_test['z_score'] > 1
 
 
 if __name__ == '__main__':
