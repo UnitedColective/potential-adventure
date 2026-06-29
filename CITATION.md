@@ -22,7 +22,7 @@ https://github.com/UnitedColective/potential-adventure
 }
 ```
 
-**MLA:** Sterling A.M. "The Point of Creation: A Unified Framework for Generative 
+**MLA:** Sterling, A.M. "The Point of Creation: A Unified Framework for Generative 
 Self-Governance." GitHub, 2026, 
 https://github.com/UnitedColective/potential-adventure.
 ```
