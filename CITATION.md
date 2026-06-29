@@ -6,7 +6,7 @@ If you use the Point of Creation Framework in your research, please cite:
 
 **APA:**
 ```
-Balderas, A. (2024). The Point of Creation: A Unified Framework for Generative 
+Sterling A..M. (2026). The Point of Creation: A Unified Framework for Generative 
 Self-Governance. Independent Research. 
 https://github.com/UnitedColective/potential-adventure
 ```
@@ -14,9 +14,9 @@ https://github.com/UnitedColective/potential-adventure
 **BibTeX:**
 ```bibtex
 @software{balderas2024pcf,
-  author = {Balderas, AnnMarie},
+  author = {Sterling, A.M.}
   title = {The Point of Creation: A Unified Framework for Generative Self-Governance},
-  year = {2024},
+  year = {2026},
   url = {https://github.com/UnitedColective/potential-adventure},
   note = {Independent Research}
 }
