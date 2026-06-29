@@ -2,7 +2,7 @@
 
 **A Unified Framework for Generative Self-Governance**
 
-By AnnMarie Balderas (Independent Researcher)  
+By A.M. Sterling (Independent Researcher)  
 Contact: ucroutreach@proton.me
 
 ## Overview
@@ -181,7 +181,7 @@ MIT License - See LICENSE file for details
 
 ## Contact
 
-**AnnMarie Balderas**  
+**A.M. Sterling 
 Independent Researcher  
 Email: ucroutreach@proton.me
 
