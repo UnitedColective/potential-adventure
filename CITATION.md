@@ -13,7 +13,7 @@ https://github.com/UnitedColective/potential-adventure
 
 **BibTeX:**
 ```bibtex
-@software{balderas2024pcf,
+@software{Sterling 2026 pcf,
   author = {Sterling, A.M.}
   title = {The Point of Creation: A Unified Framework for Generative Self-Governance},
   year = {2026},
@@ -22,10 +22,8 @@ https://github.com/UnitedColective/potential-adventure
 }
 ```
 
-**MLA:**
-```
-Balderas, AnnMarie. "The Point of Creation: A Unified Framework for Generative 
-Self-Governance." GitHub, 2024, 
+**MLA:** Sterling A.M. "The Point of Creation: A Unified Framework for Generative 
+Self-Governance." GitHub, 2026, 
 https://github.com/UnitedColective/potential-adventure.
 ```
 
@@ -52,7 +50,7 @@ The research presented in this framework draws on or relates to:
 
 ## Acknowledgments
 
-- **Author**: AnnMarie Balderas (Independent Researcher)
+- **Author**: Sterling A.M. (Independent Researcher)
 - **Contact**: ucroutreach@proton.me
 - **Data Sources**: 
   - PhysioNet (cardiac and neural data)
@@ -61,4 +59,4 @@ The research presented in this framework draws on or relates to:
 
 ---
 
-*Last updated: 2024*
+*Last updated: 2026*
