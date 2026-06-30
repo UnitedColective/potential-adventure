@@ -155,13 +155,13 @@ Contributions are welcome! Please see CONTRIBUTING.md for:
 
 **APA:**
 ```
-Sterling, A.M. (2024). The Point of Creation: A Unified Framework for Generative 
-Self-Governance. Independent Research. https://github.com/UnitedColective/potential-adventure
-```
+Sterling, A.M. (2026). The Point of Creation: A Unified Framework for Generative 
+Self-Governance. Independent Research. 
+```https://github.com/UnitedColective/point-of-creation-framework
 
 **BibTeX:**
 ```bibtex
-@software{balderas2024pcf,
+@software{Sterling2024pcf,
   title={The Point of Creation: A Unified Framework for Generative Self-Governance},
   author={Sterling, A.M.},
   year={2026},
