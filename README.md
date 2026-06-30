@@ -161,7 +161,7 @@ Self-Governance. Independent Research.
 
 **BibTeX:**
 ```bibtex
-@software{Sterling2024pcf,
+@software{Sterling2026pcf,
   title={The Point of Creation: A Unified Framework for Generative Self-Governance},
   author={Sterling, A.M.},
   year={2026},
