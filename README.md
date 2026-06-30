@@ -166,13 +166,12 @@ Self-Governance. Independent Research.
   author={Sterling, A.M.},
   year={2026},
   url={https://github.com/UnitedColective/potential-adventure}
-}
 ```
 
 ## Zenodo Archive
 
 **Concept DOI (all versions)**: [10.5281/zenodo.20954700](https://doi.org/10.5281/zenodo.20954700)  
-**GitHub Repository**: https://github.com/UnitedColective/potential-adventure  
+**GitHub Repository**:https://github.com/UnitedColective/point-of-creation-framework 
 **Status**: v2 Preprint (submitted for academic review)
 
 ## License
