@@ -51,8 +51,8 @@ Where:
 ### Installation
 
 ```bash
-git clone https://github.com/UnitedColective/potential-adventure.git
-cd potential-adventure
+git clone https://github.com/UnitedColective/point-of-creation-framework.git
+cd point-of-creation-framework
 pip install -r requirements.txt
 ```
 
@@ -82,7 +82,7 @@ python -m pytest tests/test_pcf_core.py -v
 ## Repository Structure
 
 ```
-potential-adventure/
+point-of-creation-framework/
 ├── README.md                    # This file
 ├── LICENSE                      # MIT License
 ├── PAPER.md                     # Full research paper
@@ -152,12 +152,12 @@ Contributions are welcome! Please see CONTRIBUTING.md for:
 - Data contribution process
 
 ## Citation
-
 **APA:**
 ```
-Sterling, A.M. (2026). The Point of Creation: A Unified Framework for Generative 
-Self-Governance. Independent Research. 
-```https://github.com/UnitedColective/point-of-creation-framework
+Sterling, A.M. (2026). The Point of Creation: A Unified Framework for Generative
+Self-Governance. Independent Research.
+https://github.com/UnitedColective/point-of-creation-framework
+```
 
 **BibTeX:**
 ```bibtex
@@ -165,8 +165,10 @@ Self-Governance. Independent Research.
   title={The Point of Creation: A Unified Framework for Generative Self-Governance},
   author={Sterling, A.M.},
   year={2026},
-  url={https://github.com/UnitedColective/potential-adventure}
+  url={https://github.com/UnitedColective/point-of-creation-framework}
+}
 ```
+
 
 ## Zenodo Archive
 
